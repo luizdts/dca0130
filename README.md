@@ -1,3 +1,3 @@
-# dca0130 - Redes de Computadores
+# UFRN - DCA0130 - Redes de Computadores
 
-Repositório dos laboratórios de Redes de Computadores - 2021.1
+Repositório dos laboratórios de Redes de Computadores DCA0130 - 2021.1
